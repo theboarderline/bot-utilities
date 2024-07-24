@@ -12,7 +12,7 @@
     "@types/classnames": "^2.2.10",
     "@types/jest": "^26.0.22",
     "@types/material-ui": "^0.21.8",
-    "@types/node": "^12.20.10",
+    "@types/node": "^20.14.9",
     "@types/node-sass": "^4.11.1",
     "@types/nouislider": "^9.0.7",
     "@types/react": "^17.0.3",
